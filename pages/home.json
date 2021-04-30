@@ -1,0 +1,31 @@
+{
+    "hero": {
+        "header1": "Drink Healthy<br> and Natural Coffee",
+        "header2": "Enjoy Yunnan <br> and Fujian Coffee",
+        "subtitle1": "We Select Premium Specialty Coffees That Are Transparent and Traceable to Their Source.",
+        "subtitle2": "Yunnan has long been known for its fertile highlands, which produce some of the most delicate and flavorful teas in China.",
+        "image1": "/images/bg_3.jpg",
+        "image2": "/images/bg_2.jpg"
+    },
+    "about": {
+        "header": "About",
+        "subtitle": "Welcome to Sabrina's Coffee",
+        "description":"We've 20 years' experience of crafting the finest quality coffee. From revolutionary methods and commitment to quality to unforgettable successes that have made Sabrina's Coffee House the neighborhood 's Favorite coffee shop, our story is as unique as our coffee. <br> The Sabrina's Coffee House story began back in 1997 when Sabrina and her families arrived in San Francisco with a burning desire to make great tasting coffee a part of everyday life. Setting up a small roastery in Mission Street, they committed to crafting the finest quality coffee.",
+        "bg_image": "images/about.jpg",
+        "images":[
+            {"image": "/images/coffee-1.jpg", "caption":"Cappuccino <br> Famously frothy"},
+            {"image": "/images/coffee-2.jpg","caption":"Espresso <br> Short & Intense"},
+            {"image": "/images/coffee-3.jpg","caption":"Americano <br> Simple & Smooth"}
+        ]
+    },
+    "team":{
+        "header":"Team!",
+        "subtitle":"Meet the Team",
+        "people":[
+            {"name":"Sabrina", "image":"/images/chef-4.jpg", "quotation":"Success is walking from failure to failure with no loss of enthusiasm.", "title":"Manager"},
+            {"name":"Jamie", "image":"/images/chef-1.jpg", "quotation":"I'm convinced that about half of what separates successful entrepreneurs from the non-successful ones is pure perseverance.", "title":"Barista"},
+            {"name":"Sandum", "image":"/images/chef-2.jpg", "quotation":"A vision is something you see and others don’t. Some people would say that’s a pocket definition of lunacy. But it also defines entrepreneurial spirit.", "title":"Barista"},
+            {"name":"Penpang", "image":"/images/chef-3.jpg", "quotation":"Ideas are cheap. Ideas are easy. Ideas are common. Everybody has ideas. Ideas are highly, highly overvalued. Execution is all that matters.", "title":"Baker"}
+        ]
+    }
+}

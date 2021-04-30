@@ -1,0 +1,14 @@
+{
+    "blog":{
+        "header":"Blog",
+        "subtitle":"Pictures",
+        "post":[
+            {"image":"/images/image_1.jpg","time":"Feb 4, 2021", "publisher":"Admin", "message":"I alone cannot change the world, but I can cast a stone across the water to create many ripples."},
+            {"image":"/images/image_2.jpg","time":"Mar 14, 2021", "publisher":"Admin", "message":"I have learned over the years that when one's mind is made up, this diminishes fear."},
+            {"image":"/images/image_3.jpg","time":"Apr 24, 2021", "publisher":"Admin", "message":"Our greatest glory is not in never falling, but in rising every time we fall."},
+            {"image":"/images/image_4.jpg","time":"Feb 4, 2021", "publisher":"Admin", "message":"I alone cannot change the world, but I can cast a stone across the water to create many ripples."},
+            {"image":"/images/image_5.jpg","time":"Mar 14, 2021", "publisher":"Admin", "message":"I have learned over the years that when one's mind is made up, this diminishes fear."},
+            {"image":"/images/image_6.jpg","time":"Apr 24, 2021", "publisher":"Admin", "message":"Our greatest glory is not in never falling, but in rising every time we fall."}
+        ]
+    }
+}
